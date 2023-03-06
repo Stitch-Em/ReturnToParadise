@@ -1,0 +1,20 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1",
+	"FriendlyName": "ReturnToParadise",
+	"Description": "RTP A OpenSource VivaPinata FanGame made with the VIva Engine.",
+	"Category": "Games",
+	"CreatedBy": "TheRTPTeam",
+	"CreatedByURL": "https://returnofparadise.com",
+	"DocsURL": "https://rtpdev.carrd.co/",
+	"MarketplaceURL": "https://discord.gg/6zBpKB4bza",
+	"SupportURL": "https://www.patreon.com/Return_To_Paradise",
+	"EnabledByDefault": false,
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"ExplicitlyLoaded": true,
+	"BuiltInInitialFeatureState": "Active"
+}
