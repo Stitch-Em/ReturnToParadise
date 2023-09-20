@@ -16,11 +16,5 @@
 	"IsExperimentalVersion": false,
 	"Installed": false,
 	"ExplicitlyLoaded": true,
-	"BuiltInInitialFeatureState": "Active",
-	"Plugins": [
-		{
-			"Name": "GFur",
-			"Enabled": true
-		}
-	]
+	"BuiltInInitialFeatureState": "Active"
 }
