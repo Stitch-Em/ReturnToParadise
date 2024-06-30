@@ -21,6 +21,10 @@
 		{
 			"Name": "TerrainPlugin_1",
 			"Enabled": true
+		},
+		{
+			"Name": "VE_Coins",
+			"Enabled": true
 		}
 	]
 }
