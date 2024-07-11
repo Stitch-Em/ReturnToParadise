@@ -25,6 +25,10 @@
 		{
 			"Name": "VE_Coins",
 			"Enabled": true
+		},
+		{
+			"Name": "GardenTerrain",
+			"Enabled": true
 		}
 	]
 }
