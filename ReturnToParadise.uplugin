@@ -37,6 +37,10 @@
 		{
 			"Name": "RomanceMinigameAsset",
 			"Enabled": true
+		},
+		{
+			"Name": "FakeFluid",
+			"Enabled": true
 		}
 	]
 }
